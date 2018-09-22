@@ -1,4 +1,5 @@
 This is a demonstration of prediction of next word using markov chain model.
+Training data file is also attached. You can edit the file to put data as per your domain requirements
 
 **USAGE**:
 
