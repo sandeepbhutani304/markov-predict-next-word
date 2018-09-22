@@ -3,6 +3,8 @@ Training data file is also attached. You can edit the file to put data as per yo
 
 See following video on how to use this and code explaination:
 
+English Versinon - [https://youtu.be/WL6DZPsGPt8](https://youtu.be/WL6DZPsGPt8)
+
 Hindi version - [https://www.youtube.com/watch?v=1ll8CbzKeRA](https://www.youtube.com/watch?v=1ll8CbzKeRA)
 
 **USAGE**:
