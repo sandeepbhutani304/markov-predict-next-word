@@ -11,6 +11,8 @@ Video on theoritical part explanation:
 
 English Version: [https://www.youtube.com/watch?v=Ls38CLOvazc](https://www.youtube.com/watch?v=Ls38CLOvazc)
 
+Hindi Version: [https://www.youtube.com/watch?v=KuDTNRfll3g](https://www.youtube.com/watch?v=KuDTNRfll3g)
+
 
 **USAGE**:
 
