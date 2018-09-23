@@ -7,6 +7,11 @@ English Versinon - [https://youtu.be/WL6DZPsGPt8](https://youtu.be/WL6DZPsGPt8)
 
 Hindi version - [https://www.youtube.com/watch?v=1ll8CbzKeRA](https://www.youtube.com/watch?v=1ll8CbzKeRA)
 
+Video on theoritical part explanation:
+
+English Version: [https://www.youtube.com/watch?v=Ls38CLOvazc](https://www.youtube.com/watch?v=Ls38CLOvazc)
+
+
 **USAGE**:
 
 `python markov_nextwordpred.py
